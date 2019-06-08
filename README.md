@@ -1,1 +1,0 @@
-Detailed in GamePlus.pdf
